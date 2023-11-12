@@ -33,8 +33,8 @@ Contributions are what make this community thrive. Whether you're helping to fix
 
 ## Resources
 
-- **Official NiceGUI Documentation**: ![NiceGUI.io](https://nicegui.io)
-- **Official NiceGUI Repository**: ![https://github.com/zauberzeug/nicegui](https://github.com/zauberzeug/nicegui)
+- **Official NiceGUI Documentation**: https://nicegui.io
+- **Official NiceGUI Repository**: https://github.com/zauberzeug/nicegui
 
 ## Getting Help
 
