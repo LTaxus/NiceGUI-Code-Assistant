@@ -33,9 +33,8 @@ Contributions are what make this community thrive. Whether you're helping to fix
 
 ## Resources
 
-- **Official NiceGUI Documentation**: [Link]
-- **Community Forums**: [Link]
-- **Related Projects**: [Link]
+- **Official NiceGUI Documentation**: ![NiceGUI.io](https://nicegui.io)
+- **Official NiceGUI Repository**: ![https://github.com/zauberzeug/nicegui](https://github.com/zauberzeug/nicegui)
 
 ## Getting Help
 
@@ -43,7 +42,7 @@ Encountered an issue or need help with something? Feel free to open an issue or 
 
 ## License
 
-This project is licensed under [Your Preferred License] - see the ![LICENSE.md](LICENSE) file for details.
+This project is licensed under Apache 2.0 - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
