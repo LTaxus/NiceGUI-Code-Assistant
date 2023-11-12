@@ -2,11 +2,11 @@
 
 # NiceGUI Code Assistant Knowledge Base
 
-Welcome to the NiceGUI Code Assistant Knowledge Base! This repository serves as a central hub for sharing, expanding, and exploring knowledge and resources related to web application development using the NiceGUI framework. 
+Welcome to the NiceGUI Code Assistant Knowledge Base! This repository serves as a central hub for sharing, expanding, and exploring knowledge and resources related to web application development using the NiceGUI framework.
 
 ## About NiceGUI Code Assistant
 
-NiceGUI Code Assistant is an AI-driven tool designed to aid developers in building web applications with the NiceGUI framework. It provides guidance on best practices, coding examples, and troubleshooting for common issues encountered in NiceGUI development.
+NiceGUI Code Assistant is an AI-driven tool designed to aid developers in building web applications with the NiceGUI framework. It provides guidance on best practices, coding examples, and troubleshooting for common issues encountered in NiceGUI development. It uses this repository as knowledge base. In other words if this respository grows, so do the capabilities of the NiceGUI Code Assistant.
 
 ## How to Contribute
 
