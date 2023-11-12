@@ -43,7 +43,7 @@ Encountered an issue or need help with something? Feel free to open an issue or 
 
 ## License
 
-This project is licensed under [Your Preferred License] - see the ![LICENSE.md]([https://github.com/LTaxus/NiceGUI-Code-Assistant/blob/main/LICENSE) file for details.
+This project is licensed under [Your Preferred License] - see the ![LICENSE.md](LICENSE) file for details.
 
 ## Acknowledgments
 
