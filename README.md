@@ -1,4 +1,4 @@
-![alt text]([http://url/to/img.png](https://files.oaiusercontent.com/file-bCIhKRmfRo4qZyS6ybWIALwH?se=2123-10-18T19%3A57%3A46Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D27af2028-cffc-42cc-a51d-fe99bc66ec71.png&sig=iXZ4hi0Bh/aRBesaZBzBp1%2BJkD21i9EaiaK6NjCEVTM%3D))
+([http://url/to/img.png](https://files.oaiusercontent.com/file-bCIhKRmfRo4qZyS6ybWIALwH?se=2123-10-18T19%3A57%3A46Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D27af2028-cffc-42cc-a51d-fe99bc66ec71.png&sig=iXZ4hi0Bh/aRBesaZBzBp1%2BJkD21i9EaiaK6NjCEVTM%3D))
 
 # NiceGUI Code Assistant Knowledge Base
 
