@@ -5,10 +5,7 @@ dict_of_tabs = {
     "Tab2": "Content of Tab2",
 }
 
-# Wir müssen den tab_counter nicht initialisieren, da wir ihn in add_tab berechnen werden.
-
 def add_tab():
-    # Finden Sie die höchste Tab-Nummer, um einen eindeutigen Namen für den neuen Tab zu gewährleisten
     existing_numbers = [int(name[3:]) for name in dict_of_tabs.keys() if name.startswith('Tab')]
     new_tab_number = max(existing_numbers) + 1 if existing_numbers else 1
     new_tab_name = f'Tab{new_tab_number}'
