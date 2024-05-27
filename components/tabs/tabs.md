@@ -20,7 +20,6 @@ ui.run()
 ```
 
 ## Name, label, icon
-[](https://nicegui.io/documentation/tabs#name__label__icon)
 
 The `ui.tab` element has a `label` property that can be used to display a different text than the `name`. The `name` can also be used instead of the `ui.tab`objects to associate a `ui.tab` with a `ui.tab_panel`. Additionally each tab can have an `icon`.
 
@@ -40,7 +39,6 @@ ui.run()
 ```
 
 ## Switch tabs programmatically
-[](https://nicegui.io/documentation/tabs#switch_tabs_programmatically)
 
 The `ui.tabs` and `ui.tab_panels` elements are derived from ValueElement which has a `set_value` method. That can be used to switch tabs programmatically.
 
@@ -60,7 +58,6 @@ ui.run()
 ```
 
 ## Switch tabs programmatically
-[](https://nicegui.io/documentation/tabs#switch_tabs_programmatically)
 
 The `ui.tabs` and `ui.tab_panels` elements are derived from ValueElement which has a `set_value` method. That can be used to switch tabs programmatically.
 

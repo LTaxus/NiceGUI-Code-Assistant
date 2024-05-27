@@ -30,7 +30,6 @@ ui.run()
 ```
 
 ## Autocompletion
-[](https://nicegui.io/documentation/input#autocompletion)
 
 The `autocomplete` feature provides suggestions as you type, making input easier and faster. The parameter `options` is a list of strings that contains the available options that will appear.
 
@@ -44,7 +43,6 @@ ui.run()
 ```
 
 ## Clearable
-[](https://nicegui.io/documentation/input#clearable)
 
 The `clearable` prop from [Quasar](https://quasar.dev/) adds a button to the input that clears the text.
 
@@ -58,7 +56,6 @@ ui.run()
 ```
 
 ## Styling
-[](https://nicegui.io/documentation/input#styling)
 
 Quasar has a lot of [props to change the appearance](https://quasar.dev/vue-components/input). It is even possible to style the underlying input with `input-style` and `input-class` props and use the provided slots to add custom elements.
 
